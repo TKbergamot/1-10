@@ -39,7 +39,7 @@ h2 {
 	top: 0;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 768px) {
 	main {
 		width : 90%;
 	}
@@ -47,5 +47,8 @@ h2 {
 		width: 100%;
 		margin-right: 0;
 		margin-bottom: 20px;
+	}
+	img {
+		width: 100%;
 	}
 }
